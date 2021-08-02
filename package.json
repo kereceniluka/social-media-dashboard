@@ -1,0 +1,21 @@
+{
+  "name": "social-media-dashboard",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "preshrinkwrap": "git checkout -- npm-shrinkwrap.json",
+    "postshrinkwrap": "git checkout -- npm-shrinkwrap.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kereceniluka/social-media-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kereceniluka/social-media-dashboard/issues"
+  },
+  "homepage": "https://github.com/kereceniluka/social-media-dashboard#readme"
+}
